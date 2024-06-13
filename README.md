@@ -7,8 +7,8 @@ This project aims to streamline the hiring process by utilizing the Gemini model
 
 ### Step 1: Clone the Repository
 ```bash
-git clone 
-cd ats-system
+git clone https://github.com/vallirajasekar/ATS_SYSTEM.git
+cd ATS_SYSTEM
 ```
 
 ### Step 2: Create the Conda Environment
@@ -126,7 +126,3 @@ This project uses Git for version control. Below are some basic commands to get 
     git push -u origin master
     ```
 
----
-
-Feel free to modify and expand upon this `README.md` as needed for your project.
-```
