@@ -1,4 +1,4 @@
-Here is your updated `README.md` with the specified format for the ATS System project:
+
 
 # ATS System
 
@@ -11,7 +11,7 @@ This project aims to streamline the hiring process by utilizing the Gemini model
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/vallirajasekar/Multi-Language-Invoice-Extractor.git
-cd ats-system
+cd ATS_SYSTEM
 ```
 
 ### Step 2: Create the Conda Environment
