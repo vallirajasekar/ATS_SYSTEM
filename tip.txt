@@ -1,0 +1,5 @@
+1.Field to put JD
+2.Upload pdf 
+3.Convert pdf to Image 
+4.Processing---> Google gemini pro model 
+Prompt template [Multiple Prompts]
