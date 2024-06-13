@@ -1,5 +1,8 @@
+Here is your updated `README.md` with the specified format for the ATS System project:
 
 # ATS System
+
+Access the application here: [ATS System](https://ats-system-34fp.onrender.com)
 
 This project aims to streamline the hiring process by utilizing the Gemini model for efficient resume parsing and tracking. The ATS System reduces the need for traditional methods and offers enhanced accuracy and performance.
 
@@ -7,8 +10,8 @@ This project aims to streamline the hiring process by utilizing the Gemini model
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/vallirajasekar/ATS_SYSTEM.git
-cd ATS_SYSTEM
+git clone https://github.com/vallirajasekar/Multi-Language-Invoice-Extractor.git
+cd ats-system
 ```
 
 ### Step 2: Create the Conda Environment
@@ -20,7 +23,7 @@ conda create -p venv python==3.10 -y
 ### Step 3: Activate the Environment
 Activate the Conda environment.
 ```bash
-conda activate /Users/vallirajasekar/Desktop/gemini/ATS_SYSTEM/venv
+conda activate "/Users/vallirajasekar/Desktop/gemini/ATS_SYSTEM/venv"
 ```
 
 ### Step 4: Install Dependencies
@@ -126,3 +129,4 @@ This project uses Git for version control. Below are some basic commands to get 
     git push -u origin master
     ```
 
+---
